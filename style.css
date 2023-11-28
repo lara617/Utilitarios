@@ -1,0 +1,17 @@
+body{
+    margin-left: 50px;
+    margin-right: 100px;
+    background-image: url(background.jpg);
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    color: rgb(160, 169, 247);
+}
+h2{
+    color: rgb(160, 169, 247);
+}
+h4{
+    color: rgb(160, 169, 247);
+}
